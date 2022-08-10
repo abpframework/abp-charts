@@ -15,3 +15,8 @@ helm repo add eshoponabp https://abpframework.github.io/abp-charts/
 ```
 
 You can then run `helm search repo eshoponabp` to see the charts.
+
+
+```console
+ helm install my-release eshoponabp/eshoponabp
+```
