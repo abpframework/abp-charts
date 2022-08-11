@@ -18,5 +18,5 @@ You can then run `helm search repo eshoponabp` to see the charts.
 
 
 ```console
- helm install my-release eshoponabp/eshoponabp
+ helm install eshop-st eshoponabp/eshoponabp
 ```
