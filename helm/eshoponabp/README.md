@@ -11,12 +11,12 @@ Please refer to Helm's [documentation](https://helm.sh/docs/) to get started.
 Once Helm is set up properly, add the repo as follows:
 
 ```console
-helm repo add eshoponabp https://abpframework.github.io/abp-charts/eshoponabp
+helm repo add abp-charts https://abpframework.github.io/abp-charts/eshoponabp
 ```
 
 You can then run `helm search repo eshoponabp` to see the charts.
 
 
 ```console
- helm install eshop-st eshoponabp/eshoponabp
+ helm install eshop-st abp-charts/eshoponabp
 ```
