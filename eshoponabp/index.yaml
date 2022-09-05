@@ -3,12 +3,12 @@ entries:
   eshoponabp:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-09-05T17:13:54.162783+03:00"
+    created: "2022-09-05T17:53:04.554002+03:00"
     description: A Helm chart for Kubernetes
-    digest: 2d5434ee15565969ab94ca3708455ca080825b5e28366267ac8b299317d51c1d
+    digest: bee320a691ba462aa8b285613c00e8852d502afecadeae46a24443d0b5608030
     name: eshoponabp
     type: application
     urls:
     - eshoponabp-1.0.0.tgz
     version: 1.0.0
-generated: "2022-09-05T17:13:54.155787+03:00"
+generated: "2022-09-05T17:53:04.544626+03:00"
